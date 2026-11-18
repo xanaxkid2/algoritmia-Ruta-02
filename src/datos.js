@@ -1,4 +1,4 @@
-export const ventas = [
+    const ventas = [
   {
     id: 1,
     fecha: "2026-09-01",
@@ -108,3 +108,6 @@ export const ventas = [
     precio: 26000
   }
 ];
+
+module.exports = ventas;
+
